@@ -1,0 +1,55 @@
+# Sales & Revenue Analysis Dashboard
+
+## Project Overview
+This project provides an interactive Sales & Revenue Analysis Dashboard to help businesses monitor performance, identify trends, and generate insights from sales data.
+
+## Objectives
+- Analyze sales and revenue data
+- Track key business KPIs
+- Identify top-performing products
+- Monitor revenue trends
+- Support data-driven decision making
+
+## Key Features
+- Total Sales KPI
+- Total Revenue KPI
+- Total Orders KPI
+- Average Order Value
+- Monthly Revenue Trend Analysis
+- Top Performing Products
+- Sales by Category
+- Region-wise Sales Analysis
+- Interactive Filters and Slicers
+
+## Dashboard Components
+
+### KPIs
+- Total Sales
+- Total Revenue
+- Total Orders
+- Average Order Value
+
+### Visualizations
+1. Revenue Trend (Line Chart)
+2. Sales by Product (Bar Chart)
+3. Sales by Category (Pie Chart)
+4. Top Products Analysis
+5. Region-wise Sales Comparison
+6. Monthly Sales vs Revenue
+
+## Tools Used
+- Microsoft Excel
+- Power BI
+- Data Visualization Techniques
+
+## Business Insights
+- Identify revenue growth trends
+- Track best-selling products
+- Compare regional performance
+- Improve strategic decision-making
+
+## Expected Outcome
+The dashboard enables efficient KPI tracking, business performance monitoring, and insight generation through interactive visualizations.
+
+## Author
+Anil Chanti
